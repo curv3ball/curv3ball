@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 💬 This will most likely be updated in the future
 <!--
 **curv3ball/curv3ball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
