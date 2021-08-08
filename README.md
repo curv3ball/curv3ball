@@ -1,17 +1,31 @@
-### Hi there 👋
+## Hey 👋, I'm Trey
 
-- 💬 This will most likely be updated in the future
-<!--
-**curv3ball/curv3ball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Front-End Web Developer, Software Developer and Security Researcher born and raised in [The Big Apple](https://www.google.com/search?q=the+big+apple) 🏙️
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/curv3ball/curv3ball/main/tech.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 &nbsp; I’m currently researching [Theory of Mind AI](https://towardsdatascience.com/theory-of-mind-and-artificial-intelligence-231927fabe01) using [Prolog](https://www.swi-prolog.org/)
+- 👨🏻‍💻 &nbsp; Most of my projects are private on [Github](https://github.com/curv3ball?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help if i can!
+- 📫 &nbsp; Feel free to DM me on [Twitter](https://www.twitter.com/2aminsanity/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/15WDeQwFlVq9G0RbmA4r-D7cA93VVk0QK/view?usp=sharing) for busines inquiries
+- 🚗 &nbsp; I own a '13 Nissan 370Z Nismo, '98 Nissan 180SX & '15 Toyota RAV4
+
+<br>
+
+### 🔨 Languages and Tools:
+<a href="https://www.cplusplus.com/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/c%2B%2B/c%2B%2B.svg" alt="c++" height="42px"/> </a> 
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/javascript/javascript.svg" alt="js" height="42px"/> </a> 
+<a href="https://html.com/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/html/html.svg" alt="html" height="42px"/> </a> 
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/css/css.svg" alt="css" height="42px"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/python/python.svg" alt="py" height="42px"/> </a> 
+<a href="https://nodejs.org/en/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/node/node.svg" alt="node" height="42px"/> </a> 
+<a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/vue/vue.svg" alt="vue" height="42px"/> </a> 
+<a href="https://kotlinlang.org/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/kotlin/kotlin.svg" alt="kot" height="42px"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/git-scm/git-scm.svg" alt="git" height="42px"/> </a> 
+
+<br>
