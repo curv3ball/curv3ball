@@ -9,7 +9,7 @@ I am a Front-End Web Developer, Software Developer and Security Researcher born 
 ### 🧐 More About Me:
 
 - 🌱 &nbsp; I’m currently researching [Theory of Mind AI](https://towardsdatascience.com/theory-of-mind-and-artificial-intelligence-231927fabe01) using [Prolog](https://www.swi-prolog.org/)
-- 👨🏻‍💻 &nbsp; Most of my projects are private on [Github](https://github.com/curv3ball?tab=repositories)
+- 👨🏻‍💻 &nbsp; All of my projects are private on [Github](https://github.com/curv3ball?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help if i can!
 - 📫 &nbsp; Feel free to DM me on [Twitter](https://www.twitter.com/2aminsanity/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/15WDeQwFlVq9G0RbmA4r-D7cA93VVk0QK/view?usp=sharing) for busines inquiries
