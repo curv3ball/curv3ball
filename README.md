@@ -1,7 +1,8 @@
 ## Hey 👋, I'm Trey
 
 I am a Front-End Web Developer, Software Developer and Security Researcher born and raised in [The Big Apple](https://www.google.com/search?q=the+big+apple) 🏙️
-<br/>
+<br/> <br>
+![](https://komarev.com/ghpvc/?username=curv3ball)
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/curv3ball/curv3ball/main/tech.gif" width="360px"/>
