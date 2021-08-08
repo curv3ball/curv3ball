@@ -13,7 +13,7 @@ I am a Front-End Web Developer, Software Developer and Security Researcher born 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help if i can!
 - 📫 &nbsp; Feel free to DM me on [Twitter](https://www.twitter.com/2aminsanity/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/15WDeQwFlVq9G0RbmA4r-D7cA93VVk0QK/view?usp=sharing) for busines inquiries
-- 🚗 &nbsp; I own a '13 Nissan 370Z Nismo, '98 Nissan 180SX & '15 Toyota RAV4
+- 🚗 &nbsp; I own a ['13 Nissan 370Z Nismo](https://www.kbb.com/nissan/370z/2013/nismo-coupe-2d/) and a ['98 Nissan 180SX](https://www.tc-v.com/used_car/nissan/180sx/)
 
 <br>
 
