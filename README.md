@@ -21,9 +21,7 @@ I am a Front-End Web Developer, Software Developer and Security Researcher born 
 <a href="https://www.cplusplus.com/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/c%2B%2B/c%2B%2B.svg" alt="c++" height="42px"/> </a> 
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/javascript/javascript.svg" alt="js" height="42px"/> </a> 
 <a href="https://html.com/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/html/html.svg" alt="html" height="42px"/> </a> 
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/css/css.svg" alt="css" height="42px"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/python/python.svg" alt="py" height="42px"/> </a> 
-<a href="https://nodejs.org/en/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/node/node.svg" alt="node" height="42px"/> </a> 
 <a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/vue/vue.svg" alt="vue" height="42px"/> </a> 
 <a href="https://kotlinlang.org/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/kotlin/kotlin.svg" alt="kot" height="42px"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/git-scm/git-scm.svg" alt="git" height="42px"/> </a> 
