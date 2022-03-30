@@ -16,7 +16,7 @@ I am a Front-End Web Developer, Software Developer and Security Researcher born 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help if i can!
 - 📫 &nbsp; Feel free to DM me on [Twitter](https://www.twitter.com/2aminsanity/)
 - 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/1tBEuXYqZ6qx62CUE2KmDlySBo3P8L0oyFMk2DOdoIFY/edit?usp=sharing) for business inquiries
-- 🚗 &nbsp; '13 370Z Nismo, '98 Nissan 180SX, '15 Toyota RAV4, '98 Toyota MR2
+- 🚗 &nbsp; '13 370Z Nismo, '98 180SX, '15 RAV4, '98 MR2
 
 
 ### 🔨 Languages and Tools:
