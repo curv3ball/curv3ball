@@ -2,21 +2,22 @@
 
 I am a Front-End Web Developer, Software Developer and Security Researcher born and raised in [The Big Apple](https://www.google.com/search?q=the+big+apple) 🏙️
 <br/> <br>
-![](https://komarev.com/ghpvc/?username=curv3ball)
+![](https://komarev.com/ghpvc/?username=curv3ball&label=profile+views&color=blue&style=for-the-badge) 
+![](https://img.shields.io/twitter/follow/2aminsanity?color=blue&label=TWITTER&style=for-the-badge) 
+![](https://img.shields.io/github/issues/curv3ball/curv3ball?color=blue&label=active+issues&style=for-the-badge)
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/curv3ball/curv3ball/main/tech.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
-- 🌱 &nbsp; I’m currently researching [Theory of Mind AI](https://towardsdatascience.com/theory-of-mind-and-artificial-intelligence-231927fabe01) using [Prolog](https://www.swi-prolog.org/)
+- 🌱 &nbsp; I’m currently researching [Voice Recognition](https://en.wikipedia.org/wiki/Speech_recognition) using [H20.AI](https://h2o.ai)
 - 👨🏻‍💻 &nbsp; All of my projects are private on [Github](https://i.imgur.com/wkfwmUR.png)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help if i can!
 - 📫 &nbsp; Feel free to DM me on [Twitter](https://www.twitter.com/2aminsanity/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/15WDeQwFlVq9G0RbmA4r-D7cA93VVk0QK/view?usp=sharing) for busines inquiries
-- 🚗 &nbsp; I own a ['13 Nissan 370Z Nismo](https://www.kbb.com/nissan/370z/2013/nismo-coupe-2d/) and a ['98 Nissan 180SX](https://www.tc-v.com/used_car/nissan/180sx/)
+- 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/1tBEuXYqZ6qx62CUE2KmDlySBo3P8L0oyFMk2DOdoIFY/edit?usp=sharing) for business inquiries
+- 🚗 &nbsp; '13 370Z Nismo, '98 Nissan 180SX, '15 Toyota RAV4, '98 Toyota MR2
 
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.cplusplus.com/" target="_blank"> <img align="left" src="https://github.com/curv3ball/curv3ball/blob/main/c%2B%2B/c%2B%2B.svg" alt="c++" height="42px"/> </a> 
